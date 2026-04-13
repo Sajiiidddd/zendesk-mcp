@@ -263,6 +263,7 @@ For one-off calls, use `raw_api_call` with any path from the [Zendesk API docs](
 ## 🤝 Contributing
 
 PRs welcome! If you add new tools or fix bugs, please open a pull request.
+If you find this repo helpful, drop a ⭐
 
 ---
 
